@@ -7,6 +7,7 @@ public class Projeto {
             contador ++;
 
             System.out.println("Contadorzinho barato");
+            System.out.println("teste");
         }
     }
 }
